@@ -1,0 +1,10 @@
+{
+  "author": "Tecdrop",
+  "browser": "public/scripts/app.js",
+  "description": "Does your browser support JavaScript modules natively? Test your browser.",
+  "homepage": "https://www.tecdrop.com",
+  "keywords": [],
+  "license": "MIT",
+  "name": "hello-javascript-modules",
+  "version": "1.0.0"
+}
